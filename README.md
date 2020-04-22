@@ -3,13 +3,13 @@
 Projeto inicial do curso de desenvolvedor. Produzido em html "tables" para conhecimento e aprendizagem.
 
 
-## Home
+## Página - Home
 ![Home](https://github.com/thiagobalonyi/html5/blob/master/home.jpg)
 
 
-## Quem somos
+## Página - Quem somos
 ![Quem somos](https://github.com/thiagobalonyi/html5/blob/master/quem-somos.jpg)
 
 
-## Contato
+## Página - Contato
 ![Contato](https://github.com/thiagobalonyi/html5/blob/master/contato.jpg)
